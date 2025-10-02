@@ -11,6 +11,7 @@ The project is deployed on **Base**.
 ├── backend/ # Hardhat setup for compiling & deploying contracts
 
 ├── frontend/ # React app for interacting with the deployed contract
+
 └── README.md # Project guide
 
 ---
