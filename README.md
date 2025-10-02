@@ -6,7 +6,7 @@ The project is deployed on **Base**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ├── backend/ # Hardhat setup for compiling & deploying contracts
 
@@ -16,7 +16,7 @@ The project is deployed on **Base**.
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -99,7 +99,7 @@ http://localhost:5173
 
 ---
 
-## ⚡ DApp Features
+##  DApp Features
 
 * Connect / Disconnect wallet (MetaMask or Base-compatible wallets)
 * Deploy the SimpleStorage smart contract directly from the UI
@@ -109,7 +109,7 @@ http://localhost:5173
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Smart Contracts / Backend:** Hardhat, Ethers.js, dotenv
 * **Frontend:** React (Vite), TailwindCSS, Ethers.js, Toastr.js
