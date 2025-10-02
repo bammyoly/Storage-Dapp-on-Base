@@ -22,7 +22,7 @@ The project is deployed on **Base**.
 
 ```bash
 git clone https://github.com/bammyoly/Storage-Dapp-on-Base.git
-cd your-repo-name
+cd storage-dapp-on-base
 ```
 
 ### 2. Backend (Hardhat Contracts)
