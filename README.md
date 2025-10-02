@@ -2,13 +2,14 @@
 # Simple Storage DApp on Base
 
 A full-stack decentralized application (DApp) built with **Hardhat** for the smart contract backend and **React + Ethers.js** for the frontend.
-The project is deployed on **Base** (L2 by Coinbase).
+The project is deployed on **Base**.
 
 ---
 
 ## 📂 Project Structure
 
 ├── backend/ # Hardhat setup for compiling & deploying contracts
+
 ├── frontend/ # React app for interacting with the deployed contract
 └── README.md # Project guide
 
