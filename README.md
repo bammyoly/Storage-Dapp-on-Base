@@ -120,9 +120,3 @@ http://localhost:5173
 ## 📜 License
 
 MIT License
-
----
-
-✅ Copy **this entire thing** (not wrapped in backticks) into your `README.md` file — it will render properly on GitHub.
-
-Do you want me to also add a **preview screenshot section** (with space for an image of your frontend UI) at the top of the README? That usually looks nice.
