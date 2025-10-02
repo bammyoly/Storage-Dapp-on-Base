@@ -21,7 +21,7 @@ The project is deployed on **Base**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/bammyoly/Storage-Dapp-on-Base.git
 cd your-repo-name
 ```
 
